@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - haythem22/myapp:v1.4
